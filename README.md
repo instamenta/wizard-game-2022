@@ -1,1 +1,1 @@
-# wizard-game-2022
+# Wizard-Game-2022
